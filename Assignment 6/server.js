@@ -1,3 +1,17 @@
+/*********************************************************************************
+* WEB700 – Assignment 06
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
+* assignment has been copied manually or electronically from any other source (including web sites) or
+* distributed to other students.
+*
+* Name: CHINYERE VANESSA ARINZE NKEM____ Student ID: 133404236____ Date: 31/07/2024__
+*
+* Online (Heroku) Link: ________________________________________________________
+*
+********************************************************************************/
+
+
+
 var HTTP_PORT = process.env.PORT || 8080;
 var express = require('express');
 var exphbs = require('express-handlebars');

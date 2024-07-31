@@ -1,10 +1,10 @@
 require('pg');
 const Sequalize = require('sequelize');
 
-const database = 'SenecaDB';
-const user = 'SenecaDB_owner';
-const password = 'jvFB5nfo3sOz';
-const host = 'ep-square-night-a5zs3yxv.us-east-2.aws.neon.tech';
+const database = 'dvdgsoa4tj08h';
+const user = 'uevnk1sliv5sju';
+const password = 'pb1026b4fc4badf92b9e2b4091d9069cb6f03849178d4af15c8375e6ba742e807';
+const host = 'c3gtj1dt5vh48j.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com';
 
 
 const sequelize = new Sequalize(database, user, password, {
