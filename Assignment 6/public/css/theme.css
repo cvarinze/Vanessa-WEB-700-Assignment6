@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&family=Lobster&display=swap');
+
+.navbar-brand {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 0.8px 0.5px gold;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: blue;
+}
+
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: red;
+}
+
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    background-image: url("https://images.unsplash.com/photo-1718648872191-99bcfd08bde3?q=80&w=2082&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+
+main {
+    color:aliceblue;
+    margin-top: 15px;
+}
+form {
+    margin-top: 2em;
+    padding: 2em;
+    background-color: rgb(215, 246, 250);
+    color: blue;
+}
+
+fieldset {
+    border: 2px solid sandybrown;
+    padding: 2em;
+}
+.btn-primary {
+    background-color: greenyellow;
+    color: black;
+}
